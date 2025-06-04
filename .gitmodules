@@ -1,0 +1,3 @@
+[submodule "proyectos/campoamigo-wallet"]
+	path = proyectos/campoamigo-wallet
+	url = https://github.com/politech-dev/campoamigo-wallet.git
