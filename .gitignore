@@ -1,0 +1,9 @@
+# Ignore system files
+.DS_Store
+*.log
+*.tmp
+
+# Node / Python / etc. if used later
+node_modules/
+venv/
+
