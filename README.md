@@ -1,4 +1,4 @@
-# PoligranBitcoinClub
+# Poligran Bitcoin Club
 Iniciativa académica y territorial del Politécnico Grancolombiano 
 que promueve el uso de Bitcoin y tecnologías abiertas para empoderar comunidades, 
 conectar talentos emergentes y construir soluciones reales desde el sur global. 
@@ -18,7 +18,7 @@ compartimos herramientas y desarrollamos pilotos sociales como **CampoAmigo**.
 - `/piloto-campoamigo`: Proyecto rural piloto con enfoque en soberanía digital.
 
 ## Autor
-**Diego Santacruz**  
+**Diego ₿ayardo Santacruz Jurado**  
 📫 [@ConsejeroDiego](https://x.com/ConsejeroDiego)  
 ✉️ dsantacruz@poligran.edu.co
 
