@@ -1,9 +1,9 @@
 # Taller 01: Introducción a Bitcoin 🧠⚡
 
-## ¿Qué es Bitcoin?
+## ¿Qué es itcoin?
 
 Bitcoin es una red descentralizada para enviar y recibir valor sin intermediarios. 
-Funciona con un protocolo abierto, global y resistente a censura.
+Funciona con un protocolo abierto, global y resistente a la censura.
 
 ## Temas cubiertos
 
@@ -16,6 +16,6 @@ Funciona con un protocolo abierto, global y resistente a censura.
 
 ## Actividad práctica
 
-- Crear una wallet (Blink, Phoenix o Green)
+- Crear una wallet (Blink, WalletofSatoshi, Phoenix, Green, AQUA, Blockstream)
 - Recibir y enviar sats
 
