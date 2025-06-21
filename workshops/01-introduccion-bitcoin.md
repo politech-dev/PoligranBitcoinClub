@@ -1,6 +1,6 @@
 # Taller 01: Introducción a Bitcoin 🧠⚡
 
-## ¿Qué es itcoin?
+## ¿Qué es ₿itcoin?
 
 Bitcoin es una red descentralizada para enviar y recibir valor sin intermediarios. 
 Funciona con un protocolo abierto, global y resistente a la censura.
