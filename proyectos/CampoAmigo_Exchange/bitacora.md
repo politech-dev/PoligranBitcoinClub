@@ -13,7 +13,7 @@ Vereda La Esperanza, Municipio de Taminango, Nariño, Colombia.
 | Día | Actividad                          | Observaciones |
 |-----|------------------------------------|---------------|
 | 1   | Introducción a Bitcoin             | Buena recepción |
-| 2   | Prueba de wallets y pagos locales  | Uso de Phoenix |
+| 2   | Prueba de wallets y pagos locales  | Uso de AQUA, Phoenix, Blink, WalletOfSatoshi |
 | 3   | Retroalimentación de participantes | Solicitan más talleres |
 
 ## 📝 Conclusión
