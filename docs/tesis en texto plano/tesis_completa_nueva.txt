@@ -1,0 +1,96 @@
+1. Introducción
+
+1.1. Contexto colombiano y motivación personal
+En un país como Colombia, donde el conflicto armado ha dejado cicatrices profundas en comunidades enteras, la tecnología puede convertirse en una herramienta de resiliencia, autonomía y reconstrucción. Esta tesis nace desde Medellín, no desde una zona de confort, sino desde la convicción de que la ingeniería de software puede ser una fuerza transformadora, incluso en los contextos más adversos.
+
+1.2. Justificación del proyecto
+El presente trabajo propone el diseño e implementación de un laboratorio de tecnologías descentralizadas basado en Bitcoin, como plataforma educativa, experimental y de impacto social. Inspirado en iniciativas como el Poligran Bitcoin Club, y apoyado en herramientas de código abierto, este proyecto busca articular formación técnica, infraestructura digital soberana y documentación colaborativa.
+
+1.3. Objetivos
+Objetivo general:
+Diseñar e implementar un laboratorio de tecnologías descentralizadas con enfoque educativo y comunitario, que permita a jóvenes y campesinos acceder a herramientas de soberanía digital y financiera.
+
+Objetivos específicos:
+- Montar un nodo Bitcoin y Lightning funcional.
+- Implementar un servidor BTCPay para pagos descentralizados.
+- Realizar talleres con comunidades rurales y jóvenes.
+- Documentar el proceso y evaluar su impacto.
+
+1.4. Alcance y delimitaciones
+Este proyecto se enfoca en un laboratorio piloto con herramientas FOSS, dirigido a comunidades rurales y jóvenes en Colombia. No busca competir con soluciones comerciales, sino demostrar la viabilidad de una infraestructura descentralizada con impacto social y educativo.
+
+
+2. Marco Teórico
+
+Este capítulo presenta los fundamentos conceptuales y técnicos que sustentan el proyecto, incluyendo:
+
+- Ingeniería de software y metodologías ágiles.
+- Tecnologías descentralizadas: Bitcoin, Lightning Network, BTCPay Server.
+- Infraestructura libre y soberanía digital.
+- Impacto social de las TIC en contextos de conflicto.
+- Referencias académicas de universidades como Poligran, EAFIT, MIT y otras.
+
+Se destacan trabajos como la tesis “Softwar” de Jason P. Lowery (MIT), que plantea a Bitcoin como una herramienta de proyección de poder cibernético, y estudios colombianos sobre el uso de blockchain en contextos rurales y educativos.
+
+
+3. Metodología
+
+El enfoque metodológico combina investigación-acción participativa (IAP) con desarrollo ágil. Las fases del proyecto incluyen:
+
+- Organización y reclutamiento.
+- Montaje del laboratorio técnico.
+- Talleres y validación comunitaria.
+- Documentación y divulgación.
+
+Se utilizan herramientas como Ubuntu, Git, Markdown, wallets FOSS, y plataformas educativas. La participación del SENA, cooperativas y comunidades rurales es clave para la validación del modelo.
+
+
+4. Desarrollo Técnico
+
+Este capítulo describe la implementación del laboratorio:
+
+- Nodo Bitcoin y Lightning en Ubuntu.
+- Configuración de BTCPay Server con Docker.
+- Evaluación de wallets como Phoenix, Green y AQUA.
+- Automatización de procesos y documentación técnica.
+
+Se incluye una visión de sostenibilidad y escalabilidad, con proyección hacia un spin-off llamado CampoAmigo Wallet, orientado a pagos rurales y trazabilidad de productos agrícolas.
+
+
+5. Impacto Social y Comunitario
+
+Se presentan los vínculos reales del proyecto:
+
+- Alianza con FUNVIC y validación con comunidades rurales.
+- Caso de Juliana del Páramo (Nariño) y su marca de café.
+- Experiencia en Panoya (Taminango) con maracuyá y economía campesina.
+- Educación con juegos para jóvenes en colegios rurales.
+- Redes de apoyo: SENA, Universidad Distrital, Universidad Mariana, Consejo de Juventud.
+
+El laboratorio se proyecta como una herramienta de transformación territorial, educativa y económica.
+
+
+6. Resultados y Evaluación
+
+Aunque aún no se ha realizado una validación formal, se han identificado:
+
+- Barreras de entrada: conectividad, brechas técnicas, desinformación.
+- Interés genuino de jóvenes y campesinos.
+- Potencial de escalabilidad y sostenibilidad.
+
+Se propone realizar un piloto con cronograma, encuestas, bitácoras y documentación audiovisual. CampoAmigo Wallet se perfila como un MVP con alto potencial de impacto.
+
+
+7. Conclusiones y Recomendaciones
+
+Esta tesis demuestra que es posible construir infraestructura tecnológica descentralizada con impacto social desde contextos adversos. La combinación de herramientas libres, formación técnica y participación comunitaria permite abrir caminos hacia la soberanía digital y financiera.
+
+Recomendaciones:
+- Sistematizar el piloto con evidencias y cronograma.
+- Fortalecer alianzas con instituciones como el SENA y universidades.
+- Explorar modelos de negocio sostenibles (consultoría, formación, wallet).
+- Integrar ideas de mercado de capitales (Adolfo Contreras) y modelos como el de Burkina Faso para convertir activos agrícolas en capital.
+
+Este proyecto es una semilla que puede escalar, inspirar y transformar. La educación, la tecnología y la comunidad son el camino.
+
+

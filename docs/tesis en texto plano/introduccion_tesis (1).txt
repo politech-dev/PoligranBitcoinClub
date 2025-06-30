@@ -1,0 +1,36 @@
+
+# 1. Introducción
+
+## 1.1 Contexto colombiano y motivación personal
+
+Colombia es un país marcado por profundas desigualdades sociales, históricas y territoriales. El conflicto armado, la exclusión económica y la falta de oportunidades han afectado especialmente a las comunidades rurales y a los jóvenes. En este contexto, la tecnología puede ser una herramienta de transformación, resiliencia y empoderamiento.
+
+Esta tesis nace desde Medellín, pero también desde Nariño, desde el Consejo de Juventud, desde los caminos recorridos por el autor en Cusco, Lima, Tabatinga y Pasto. No es una tesis escrita desde la comodidad, sino desde la experiencia vivida, desde la necesidad de construir soluciones reales con impacto social. El autor ha sido testigo de las barreras de entrada al mundo tecnológico, pero también de su potencial para cambiar vidas. Esta motivación personal, combinada con una visión crítica y constructiva, impulsa el desarrollo de un laboratorio de tecnologías descentralizadas como plataforma educativa, experimental y comunitaria.
+
+## 1.2 Justificación del proyecto
+
+El acceso a herramientas tecnológicas libres, seguras y descentralizadas es aún limitado en muchas regiones de Colombia. Las comunidades rurales, los jóvenes sin recursos y las víctimas del conflicto enfrentan barreras técnicas, económicas y educativas para participar en la economía digital.
+
+Este proyecto propone la creación de un laboratorio de tecnologías descentralizadas (Bitcoin, Lightning Network, BTCPay, wallets FOSS) como espacio de formación, experimentación y documentación. Inspirado en el Poligran Bitcoin Club y en alianzas con organizaciones como FUNVIC, el SENA, cooperativas rurales y universidades, el laboratorio busca cerrar brechas digitales, fomentar la soberanía tecnológica y generar oportunidades reales de desarrollo.
+
+## 1.3 Objetivos
+
+### Objetivo general
+
+Diseñar e implementar un laboratorio de tecnologías descentralizadas con enfoque educativo y social, que permita a jóvenes y comunidades rurales acceder, experimentar y construir soluciones tecnológicas libres y sostenibles.
+
+### Objetivos específicos
+
+- Documentar el proceso de diseño, implementación y validación del laboratorio.
+- Formar a jóvenes en herramientas como Bitcoin, Lightning, BTCPay y wallets FOSS.
+- Vincular el laboratorio con comunidades rurales, cooperativas y actores educativos como el SENA.
+- Explorar casos de uso reales (café, maracuyá, educación con juegos) para validar el impacto social y económico.
+- Proponer una estrategia de sostenibilidad y escalabilidad del laboratorio como spin-off o emprendimiento social.
+
+## 1.4 Alcance y delimitaciones
+
+Este proyecto se enfoca en el diseño y validación de un laboratorio piloto, con énfasis en la documentación, la formación y la vinculación comunitaria. No busca desarrollar una solución comercial inmediata, sino sentar las bases para una infraestructura replicable y sostenible.
+
+Las pruebas se realizarán en contextos reales (Medellín, Nariño, FUNVIC, comunidades rurales), pero no se pretende una cobertura nacional en esta fase. La sistematización de resultados dependerá de la disponibilidad de recursos, tiempo y participación comunitaria.
+
+El proyecto se basa en herramientas de código abierto y en principios de ética, inclusión y soberanía digital.

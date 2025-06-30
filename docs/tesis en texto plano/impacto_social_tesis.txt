@@ -1,0 +1,25 @@
+
+Capítulo 5: Impacto Social y Comunitario
+
+Este capítulo presenta el impacto social, educativo y económico del laboratorio de tecnologías descentralizadas propuesto, así como los vínculos comunitarios, institucionales y territoriales que lo sustentan.
+
+5.1 Vinculación con FUNVIC y comunidades rurales
+
+Durante el primer trimestre del proyecto, el Poligran Bitcoin Club estableció una alianza con la Fundación FUNVIC, con el objetivo de validar propuestas tecnológicas en escenarios reales. Esta colaboración permitió el acercamiento a comunidades rurales como la de Juliana, una joven emprendedora del Páramo, Nariño, quien ha desarrollado su propia marca de café. Su experiencia representa un caso de uso ideal para explorar pagos descentralizados, trazabilidad de productos y comercio justo mediante herramientas como BTCPay Server y Lightning Network.
+
+5.2 Experiencias en Panoya, Taminango (Nariño)
+
+En el corregimiento de Panoya, municipio de Taminango, se identificó un ecosistema productivo basado en el cultivo y comercialización de maracuyá. La profesora Segundo y su familia lideran una red de pequeños productores que venden a intermediarios para su distribución en ciudades como Pasto y Cali. Esta experiencia, vivida directamente por el autor de esta tesis, plantea oportunidades para escalar soluciones tecnológicas que mejoren la trazabilidad, pagos directos y acceso a mercados sin intermediarios.
+
+5.3 Educación tecnológica con enfoque lúdico
+
+En articulación con instituciones educativas rurales y urbanas, se ha propuesto el uso de juegos y dinámicas interactivas para enseñar conceptos de tecnología, criptografía y economía digital a jóvenes. Esta iniciativa, respaldada por el rector de una institución educativa cercana al entorno familiar del autor, busca reducir la brecha digital desde edades tempranas y fomentar el pensamiento computacional en contextos vulnerables.
+
+5.4 Proyección internacional y tendencias globales
+
+El proyecto se inspira en casos de éxito como el de El Salvador, donde el presidente Nayib Bukele impulsó la adopción de Bitcoin como moneda de curso legal. Esta experiencia demuestra el potencial de las tecnologías descentralizadas para transformar economías emergentes. Asimismo, se reconoce la importancia de experiencias personales del autor en espacios internacionales como la Universidad Nacional de Cusco (Perú), donde participó en eventos sobre derechos humanos, y en Tabatinga (Brasil), donde reflexionó sobre la integración regional y la soberanía tecnológica.
+
+5.5 Redes de apoyo y escalabilidad
+
+El laboratorio se proyecta como una plataforma replicable en otras regiones de Colombia y América Latina. Se cuenta con el respaldo de actores como el SENA, cooperativas rurales, docentes universitarios, líderes comunitarios y contactos en el ámbito político y académico. Esta red de apoyo permitirá escalar el impacto del proyecto, generar modelos de negocio sostenibles y posicionar la tesis como una propuesta de transformación social desde la ingeniería de software.
+

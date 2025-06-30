@@ -1,0 +1,51 @@
+
+Capítulo 3: Metodología
+
+Este capítulo describe el enfoque metodológico adoptado para el diseño, implementación y evaluación de un laboratorio de tecnologías descentralizadas con énfasis en Bitcoin, impacto social y resiliencia comunitaria en Colombia. La metodología combina elementos técnicos, educativos y participativos, alineados con los principios del software libre y la soberanía digital.
+
+3.1 Enfoque General
+
+Se adopta una metodología de investigación-acción participativa (IAP), que permite integrar la construcción técnica con la transformación social. Esta metodología se complementa con principios de desarrollo ágil, prototipado iterativo y documentación abierta.
+
+3.2 Diseño del Laboratorio
+
+El laboratorio se concibe como un espacio físico y digital para la experimentación con tecnologías descentralizadas. Su diseño incluye:
+
+- Nodo Bitcoin (on-chain y Lightning Network)
+- Servidor BTCPay para pruebas de pagos
+- Revisión y uso de billeteras FOSS (Green, Phoenix, AQUA)
+- Infraestructura basada en Ubuntu y herramientas libres
+
+3.3 Fases del Proyecto
+
+Las fases del proyecto, extraídas del plan de acción del Poligran Bitcoin Club, son:
+
+| Fase | Nombre                     | Descripción breve                                  | Estado    |
+|------|----------------------------|----------------------------------------------------|-----------|
+| 1    | Organización y Reclutamiento | Formación del equipo y difusión inicial            | En curso  |
+| 2    | Laboratorio Bitcoin        | Pruebas técnicas con nodos, wallets, BTCPay        | Pendiente |
+| 3    | Primer workshop            | Evento piloto: CampoAmigo, comunidad rural aliada  | En planeación |
+| 4    | Web y divulgación          | Publicación de sitio y recursos en red             | Pendiente |
+
+3.4 Herramientas y Tecnologías
+
+- Bitcoin Core y LND para nodos
+- BTCPay Server para pagos descentralizados
+- Markdown y Git para documentación
+- Plataformas educativas para talleres (presenciales y virtuales)
+
+3.5 Participación Comunitaria
+
+Se promueve la vinculación de comunidades rurales, cooperativas, víctimas del conflicto armado y aprendices del SENA. La metodología incluye talleres, entrevistas, bitácoras y espacios de co-creación.
+
+3.6 Evaluación
+
+La evaluación se realizará en dos dimensiones:
+
+- Técnica: funcionamiento del nodo, estabilidad del servidor, seguridad.
+- Social: participación comunitaria, apropiación tecnológica, impacto percibido.
+
+3.7 Ética y Responsabilidad
+
+El proyecto se guía por principios de ética tecnológica, respeto por la autonomía comunitaria y compromiso con la educación como herramienta de transformación.
+

@@ -1,0 +1,53 @@
+ÍNDICE TENTATIVO DE CAPÍTULOS
+
+1. Introducción
+   1.1. Contexto colombiano y motivación personal
+   1.2. Justificación del proyecto
+   1.3. Objetivos (general y específicos)
+   1.4. Alcance y delimitaciones
+
+2. Marco Teórico
+   2.1. Ingeniería de software y metodologías ágiles
+   2.2. Tecnologías descentralizadas: Bitcoin, Lightning Network, BTCPay
+   2.3. Infraestructura libre y soberanía digital
+   2.4. Impacto social de las TIC en contextos de conflicto
+   2.5. Referentes académicos y tesis relacionadas (MIT, Poligran, EAFIT, etc.)
+
+3. Metodología
+   3.1. Enfoque metodológico (investigación aplicada, participativa)
+   3.2. Diseño del laboratorio descentralizado
+   3.3. Herramientas y tecnologías utilizadas
+   3.4. Fases del proyecto (según plan.md)
+
+4. Desarrollo Técnico
+   4.1. Nodo Bitcoin y Lightning Network
+   4.2. Implementación de BTCPay Server
+   4.3. Evaluación de wallets y herramientas FOSS
+   4.4. Infraestructura de red y seguridad
+
+5. Impacto Social y Comunitario
+   5.1. Enlace con comunidades rurales y víctimas del conflicto
+   5.2. Talleres y formación en soberanía financiera
+   5.3. Resultados preliminares de campo (ej. CampoAmigo)
+   5.4. Redes de colaboración y alianzas
+
+6. Resultados y Evaluación
+   6.1. Indicadores técnicos y sociales
+   6.2. Lecciones aprendidas
+   6.3. Limitaciones del proyecto
+
+7. Conclusiones y Recomendaciones
+   7.1. Conclusiones generales
+   7.2. Recomendaciones para futuras implementaciones
+   7.3. Proyecciones del laboratorio
+
+8. Bibliografía
+   - Tesis académicas (Poligran, EAFIT, MIT, etc.)
+   - Artículos científicos y libros
+   - Documentación técnica de software libre
+
+9. Anexos
+   - Bitácoras de trabajo
+   - Capturas de pantalla del laboratorio
+   - Materiales educativos y enlaces
+

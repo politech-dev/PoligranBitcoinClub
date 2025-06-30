@@ -1,0 +1,31 @@
+
+Capítulo 2: Marco Teórico
+
+2.1 Ingeniería de Software y Metodologías Ágiles
+
+La ingeniería de software es una disciplina fundamental para el desarrollo de soluciones tecnológicas sostenibles. En el contexto de esta tesis, se adopta un enfoque basado en metodologías ágiles como Scrum y Kanban, que permiten una gestión iterativa, colaborativa y adaptable del proyecto. Estas metodologías han sido aplicadas exitosamente en proyectos académicos como el de Villa y Moreno (Politécnico Grancolombiano, 2022), quienes diseñaron una arquitectura de software en la nube utilizando Django y REST API.
+
+2.2 Tecnologías Descentralizadas: Bitcoin y Lightning Network
+
+Bitcoin, propuesto por Satoshi Nakamoto (2008), es una red descentralizada de efectivo electrónico que permite transacciones sin intermediarios. Su arquitectura basada en prueba de trabajo (PoW) y cadenas de bloques ha sido estudiada ampliamente, incluyendo en tesis como la de Flórez y Villegas (EAFIT, 2021), quienes analizaron su impacto en Colombia. La red Lightning, por su parte, permite micropagos instantáneos y de bajo costo, lo que la convierte en una herramienta clave para la inclusión financiera.
+
+2.3 Infraestructura Libre y Soberanía Digital
+
+El uso de herramientas de código abierto (FOSS) como BTCPay Server, Ubuntu y wallets como Green o Phoenix, permite construir una infraestructura tecnológica soberana. Esta visión se alinea con el trabajo de Jason P. Lowery (MIT, 2023), quien en su tesis “Softwar” plantea que Bitcoin representa una nueva forma de proyección de poder cibernético, descentralizado y resistente a la censura.
+
+2.4 Impacto Social de las TIC en Contextos de Conflicto
+
+Diversos estudios han documentado cómo las tecnologías pueden cerrar brechas sociales. La Universidad Nacional de Colombia (2018) analizó cómo las TIC pueden reducir desigualdades, mientras que la Universidad Jorge Tadeo Lozano (2022) exploró el impacto del IoT en comunidades rurales. En esta tesis, se propone un laboratorio descentralizado como herramienta de empoderamiento para comunidades afectadas por el conflicto armado en Colombia.
+
+2.5 Educación Técnica y Formación Profesional
+
+El SENA ha sido un actor clave en la formación técnica en Colombia. Su enfoque práctico y territorial ha permitido que jóvenes de zonas rurales accedan a educación tecnológica. Esta tesis busca articularse con esa misión, ofreciendo un espacio de aprendizaje descentralizado y experimental.
+
+2.6 Experiencia Personal y Contexto Local
+
+El autor de esta tesis ha vivido en distintas regiones de Colombia, incluyendo zonas rurales y urbanas como Medellín. Su paso por instituciones como la Universidad Distrital y el SENA, así como su contacto con comunidades campesinas, han nutrido una visión crítica y resiliente de la tecnología. Esta experiencia vivencial se convierte en un insumo valioso para diseñar soluciones con pertinencia social.
+
+2.7 Referentes Académicos y Globales
+
+Además de las universidades colombianas, se toman como referentes trabajos de instituciones internacionales como el MIT, la Universitat Politècnica de Catalunya y la Universidad Torcuato Di Tella. Estas referencias permiten situar el proyecto en un marco global de innovación tecnológica con impacto social.
+

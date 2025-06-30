@@ -1,0 +1,27 @@
+
+Capítulo 7: Conclusiones y Recomendaciones
+
+7.1 Conclusiones
+
+Este trabajo de grado representa mucho más que un proyecto académico: es el resultado de una vida dedicada a la tecnología, a la educación y a la transformación social desde los márgenes. Desde Medellín, pasando por Nariño, Cusco, Lima y Tabatinga, esta tesis recoge experiencias reales, aprendizajes empíricos y una visión clara de cómo las tecnologías descentralizadas pueden ser herramientas de resiliencia, autonomía y desarrollo.
+
+El laboratorio propuesto, basado en Bitcoin, Lightning Network, BTCPay Server y herramientas FOSS, ha sido concebido como una plataforma educativa, experimental y comunitaria. Aunque aún no se ha implementado en su totalidad, las fases de diseño, planificación y vinculación con actores clave como el SENA, FUNVIC, cooperativas rurales y universidades como Poligran, EAFIT y Mariana, han permitido construir una base sólida para su ejecución.
+
+El impacto social del proyecto se vislumbra en los vínculos con jóvenes del Consejo de Juventud, campesinos emprendedores como Juliana del Páramo y redes de comercialización como la de Panoya. A nivel técnico, se ha documentado una arquitectura replicable, segura y sostenible, con potencial de escalar como spin-off educativo y de consultoría.
+
+7.2 Recomendaciones
+
+- Sistematizar las experiencias vividas mediante bitácoras, cronogramas y evidencias fotográficas.
+- Ejecutar un piloto funcional del laboratorio en una comunidad aliada (ej. CampoAmigo, Panoya).
+- Fortalecer alianzas con instituciones educativas y actores del ecosistema Bitcoin en América Latina.
+- Desarrollar una estrategia de sostenibilidad basada en formación, servicios técnicos y cooperación internacional.
+- Promover la participación de jóvenes en procesos de apropiación tecnológica con enfoque territorial.
+
+7.3 Mensaje Final
+
+Esta tesis es el reflejo de una vida entregada a la tecnología sin privilegios, sin atajos, pero con una convicción profunda: que la educación es el camino, que la descentralización es una oportunidad, y que los jóvenes de Colombia y América Latina podemos construir soluciones reales desde nuestras comunidades.
+
+Con humildad, resiliencia y visión, este documento no solo cierra un ciclo académico, sino que abre la puerta a un futuro donde la ingeniería de software, el impacto social y la soberanía digital se encuentran para transformar vidas.
+
+Gracias a quienes han acompañado este camino. Esto apenas comienza.
+

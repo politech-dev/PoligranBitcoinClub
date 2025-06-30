@@ -1,0 +1,46 @@
+
+Capítulo 4: Desarrollo Técnico
+
+4.1 Introducción
+
+Este capítulo describe el desarrollo técnico del laboratorio de tecnologías descentralizadas propuesto en esta tesis. El enfoque combina herramientas de software libre, infraestructura de bajo costo y tecnologías como Bitcoin, Lightning Network y BTCPay Server. El objetivo es construir un entorno funcional, educativo y replicable que sirva como base para la formación técnica, la experimentación y la proyección social.
+
+4.2 Infraestructura del Laboratorio
+
+El laboratorio se basa en una arquitectura modular y escalable, compuesta por:
+
+- Nodo Bitcoin (on-chain): sincronizado con la red principal.
+- Nodo Lightning Network: para pagos instantáneos y de bajo costo.
+- BTCPay Server: plataforma de pagos libre y autoalojada.
+- Wallets FOSS: como Phoenix, Green y Sparrow.
+- Servidor Ubuntu con Docker y herramientas CLI.
+- Documentación en Markdown y Git para trazabilidad.
+
+4.3 Implementación Técnica
+
+Se utilizó un servidor local con Ubuntu 22.04 y conexión a internet estable. La instalación de Bitcoin Core y LND se realizó siguiendo buenas prácticas de seguridad. BTCPay Server se desplegó con Docker Compose, permitiendo una gestión sencilla de servicios. Se configuraron wallets móviles y de escritorio para pruebas de envío y recepción de pagos.
+
+4.4 Documentación y Automatización
+
+Cada paso fue documentado en archivos Markdown, incluyendo capturas, comandos y errores comunes. Se creó un repositorio Git para versionar el laboratorio y facilitar su réplica. Se diseñaron scripts de automatización para facilitar la instalación en nuevos entornos.
+
+4.5 Escalabilidad y Sostenibilidad
+
+El laboratorio fue concebido como un proyecto replicable en otras instituciones educativas, cooperativas o comunidades rurales. Su bajo costo y uso de herramientas libres lo hacen accesible. Además, se plantea su sostenibilidad a través de:
+
+- Cursos y talleres pagos.
+- Servicios de consultoría técnica.
+- Integración con proyectos productivos locales.
+- Alianzas con el SENA y universidades.
+
+4.6 Visión de Negocio y Espíritu Emprendedor
+
+Inspirado por el pensamiento de negocios de EAFIT y el espíritu emprendedor paisa, este laboratorio no solo es una tesis, sino una plataforma con potencial de convertirse en un negocio social. Desde Medellín, se proyecta como una iniciativa que puede escalar, generar ingresos y crear empleo, sin perder su enfoque ético y educativo.
+
+4.7 Experiencia Personal como Motor del Proyecto
+
+Este desarrollo técnico no surge en el vacío. Está alimentado por experiencias vividas en Cusco, donde el autor participó en eventos de derechos humanos; en Lima, donde aprendió sobre resiliencia sin recursos; en Tabatinga, donde reflexionó sobre la frontera y la conexión humana; y en Medellín, donde se forjó el carácter y la visión de futuro. Cada línea de código, cada nodo sincronizado, lleva consigo una historia de lucha, aprendizaje y propósito.
+
+4.8 Conclusión
+
+El laboratorio técnico desarrollado en esta tesis demuestra que es posible construir infraestructura descentralizada, educativa y socialmente relevante con recursos limitados pero con visión, conocimiento y compromiso. Es un paso hacia una ingeniería de software con propósito, desde y para América Latina.
