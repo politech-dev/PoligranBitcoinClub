@@ -20,9 +20,7 @@ compartimos herramientas y desarrollamos pilotos sociales como **CampoAmigo**.
 <<<<<<< HEAD
 ## Autor
 **Diego ₿ayardo Santacruz Jurado**  
-=======
-# Autor
-**Diego Santacruz**  
+=======  
 >>>>>>> 1379a3e (Agrego documentos de tesis optimizados y materiales complementarios)
 📫 [@ConsejeroDiego](https://x.com/ConsejeroDiego)  
 ✉️ dsantacruz@poligran.edu.co
