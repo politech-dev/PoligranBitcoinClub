@@ -29,7 +29,6 @@ Iniciativa académica y territorial del Politécnico Grancolombiano que promueve
 
 ## 👤 Autor
 **Diego ₿ayardo Santacruz Jurado** 
-Director & Co-Founder **@Xiima-Labs** | Estudiante Ing. Software  
-
+Director & Cofundador **@Xiima-Labs** | Estudiante Ing. Software  
 📫 [@ConsejeroDiego](https://x.com/ConsejeroDiego)  
 ✉️ dsantacruz@poligran.edu.co
