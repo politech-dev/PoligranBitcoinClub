@@ -1,4 +1,4 @@
-# 💻 Poligran ₿itcoin Club
+## 💻 Poligran ₿itcoin Club
 > "Soberanía financiera para el campesinado y la academia."
 
 <div align="center">
