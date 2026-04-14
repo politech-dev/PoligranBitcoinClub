@@ -1,5 +1,5 @@
-## 💻 Poligran ₿itcoin Club
-> <div align="center">"Soberanía financiera, resistencia a la censura, libertad"</div>
+## <div align="center"> 💻 Poligran ₿itcoin Club </div>
+<div align="center">"Soberanía financiera, resistencia a la censura, libertad"</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub_Education-Recurso_Certificado-blue?logo=github" />
