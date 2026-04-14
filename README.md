@@ -1,5 +1,5 @@
 ## 💻 Poligran ₿itcoin Club
-> "Soberanía financiera para el campesinado y la academia."
+> <div align="center">"Soberanía financiera, resistencia a la censura, libertad"</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub_Education-Recurso_Certificado-blue?logo=github" />
@@ -28,7 +28,7 @@ Iniciativa académica y territorial del Politécnico Grancolombiano que promueve
 ---
 
 ## 👤 Autor
-**Diego ₿ayardo Santacruz Jurado** 
+**Diego ₿ayardo Santacruz Jurado** |
 Director & Cofundador **@Xiima-Labs** | Estudiante Ing. Software  
 📫 [@ConsejeroDiego](https://x.com/ConsejeroDiego)  
 ✉️ dsantacruz@poligran.edu.co
